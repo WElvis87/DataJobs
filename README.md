@@ -47,9 +47,9 @@ Tableau dashboard that contains:
 
 Tableau Public URL : https://public.tableau.com/app/profile/elvis.wanjohi/viz/JobsDashboard_17569985159410/SummaryDashboard
 
-<img width="1366" alt="Streamlit Dashboard" src="https://github.com/WElvis87/Data-Jobs/blob/main/assets/vizualization001.png" />
+<img width="1366" alt="Overview Dashboard" src="https://github.com/WElvis87/DataJobs/blob/main/assets/visualization001.png" />
 
-<img width="1366" alt="Streamlit Dashboard" src="https://github.com/WElvis87/Data-Jobs/blob/main/assets/vizualization002.png" />
+<img width="1366" alt="Detail Dashboard" src="https://github.com/WElvis87/DataJobs/blob/main/assets/visualization001.png" />
 
 ---
 
